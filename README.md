@@ -27,6 +27,8 @@ III.	It looks like the Summer months are the worst time to have a deadline for a
 
 
 I.	There are limitations on the amount of projects tat are funded per country and the number of categories, per country that are successful/failed/currently live/are canceled.  For example, for Belgium, there were represented by only 2 categories, photography and food, with the former having 1 successful project and the latter having 1 failed project.   Compared to the US, that has projects in every category, with successful, failed, live and canceled projects spread in between all nine categories.   
+
+
 II.	Another limitation is that Kickstarter is an American company, so it makes sense that the US would have more projects than any other country.
 
 
