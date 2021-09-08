@@ -2,7 +2,9 @@
 
 ## Excel - Kickstarter Report
 
-1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+### 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+
+
 I.	The success rate of a Kickstarter project is highly dependent on the percent funded and average amount donated towards a project. 
 a)	Successful projects have an average percentage funded rate of 1764% and an average donation of $93.66
 b)	Failed projects have an average percentage funded rate of 9% and an average donation of $74.25.  It also should be noted that about 287 out of the total 1,530 failed projects have error or $0.
