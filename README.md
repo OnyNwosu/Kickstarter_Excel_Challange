@@ -37,8 +37,11 @@ II.	Another limitation is that Kickstarter is an American company, so it makes s
 
 
 I.	Graphs showcasing the different categories per country.
+
 II.	A chart showcasing the number of backers per state of a project.
+
 III.	A graph showcasing the average donation, from backers, per category. 
+
 IV.	A chart showcasing a range of different goal amounts with the percent funded, per sub-category. 
 
 _____________________________________________________________________________________________________________________
