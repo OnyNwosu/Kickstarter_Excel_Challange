@@ -18,7 +18,9 @@ d)	Projects that are currently live have an average percentage funded rate of 31
 
 II.	Theatre and plays are the most popular and funded projects.  Even though the success rate for this category and sub-category is over 50% successful, the amount of successful theater/play are much higher than the other categories and sub-categories. 
 
+
 III.	It looks like the Summer months are the worst time to have a deadline for a project.  There is a steep decline of successful projects between May and September. There was a loss of successful projects within these months.  Compared to the number of failed projects, that amount rose during the same months, with the highest peak in July. 
+
 
 
 #### 2.	What are some limitations of this dataset?
