@@ -6,10 +6,10 @@
 
 
 I.	The success rate of a Kickstarter project is highly dependent on the percent funded and average amount donated towards a project. 
-a)	Successful projects have an average percentage funded rate of 1764% and an average donation of $93.66
-b)	Failed projects have an average percentage funded rate of 9% and an average donation of $74.25.  It also should be noted that about 287 out of the total 1,530 failed projects have error or $0.
-c)	Projects that have been canceled have an average percentage funded rate of 69%.  Even though most of the projects that managed to receive funding, received an average donation of $117.29, 117 of these projects, out 349, received 0 funding. 
-d)	Projects that are currently live have an average percentage funded rate of 31% (with percentage ranging from 0% to 128%).  We can guess that the 9 projects in the ‘Percent Funded’ that are green, will most likely be the projects that will end up becoming successful. 
+    a)	Successful projects have an average percentage funded rate of 1764% and an average donation of $93.66
+    b)	Failed projects have an average percentage funded rate of 9% and an average donation of $74.25.  It also should be noted that about 287 out of the total 1,530 failed projects have error or $0.
+    c)	Projects that have been canceled have an average percentage funded rate of 69%.  Even though most of the projects that managed to receive funding, received an average donation of $117.29, 117 of these projects, out 349, received 0 funding. 
+    d)	Projects that are currently live have an average percentage funded rate of 31% (with percentage ranging from 0% to 128%).  We can guess that the 9 projects in the ‘Percent Funded’ that are green, will most likely be the projects that will end up becoming successful. 
 II.	Theatre and plays are the most popular and funded projects.  Even though the success rate for this category and sub-category is over 50% successful, the amount of successful theater/play are much higher than the other categories and sub-categories. 
 
 III.	It looks like the Summer months are the worst time to have a deadline for a project.  There is a steep decline of successful projects between May and September. There was a loss of successful projects within these months.  Compared to the number of failed projects, that amount rose during the same months, with the highest peak in July. 
