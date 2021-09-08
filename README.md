@@ -14,10 +14,16 @@ II.	Theatre and plays are the most popular and funded projects.  Even though the
 
 III.	It looks like the Summer months are the worst time to have a deadline for a project.  There is a steep decline of successful projects between May and September. There was a loss of successful projects within these months.  Compared to the number of failed projects, that amount rose during the same months, with the highest peak in July. 
 
-2.	What are some limitations of this dataset?
+#### 2.	What are some limitations of this dataset?
+
+
 I.	There are limitations on the amount of projects tat are funded per country and the number of categories, per country that are successful/failed/currently live/are canceled.  For example, for Belgium, there were represented by only 2 categories, photography and food, with the former having 1 successful project and the latter having 1 failed project.   Compared to the US, that has projects in every category, with successful, failed, live and canceled projects spread in between all nine categories.   
 II.	Another limitation is that Kickstarter is an American company, so it makes sense that the US would have more projects than any other country.
-3.	What are some other possible tables and/or graphs that we could create?
+
+
+#### 3.	What are some other possible tables and/or graphs that we could create?
+
+
 I.	Graphs showcasing the different categories per country.
 II.	A chart showcasing the number of backers per state of a project.
 III.	A graph showcasing the average donation, from backers, per category. 
